@@ -5,7 +5,7 @@ All you have to do is wait for your victim to scan it and you will be connected 
 
 # Features
  - No data caching.
- - External Python modules needed ([Selenium](https://pypi.org/project/selenium/),[PIL](https://pypi.org/project/Pillow/)).
+ - External Python modules needed ([Selenium](https://pypi.org/project/selenium/), [PIL](https://pypi.org/project/Pillow/)).
 
 <br>
 
