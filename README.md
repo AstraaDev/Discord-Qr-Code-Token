@@ -3,8 +3,6 @@
 This script allows to generate a QR code of connection and to introduce it automatically on a background of "Fake Nitro".
 All you have to do is wait for your victim to scan it and you will be connected to the account.
 
-``(This script is for educational purposes. I am in no way responsible for any inconvenience.)``
-
 # Features
  - No data caching.
  - External Python modules needed ([Selenium](https://pypi.org/project/selenium/), [PIL](https://pypi.org/project/Pillow/)).
@@ -34,6 +32,11 @@ All you have to do is wait for your victim to scan it and you will be connected 
     - [WebSite](http://astraadev.club/)
     - [PayPal.me](https://www.paypal.com/paypalme/fmrhrt)
  
+<br>
+
+# Caution
+This script is for educational purposes. I am in no way responsible for any inconvenience.
+
 <br>
 
 # Donate
