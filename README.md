@@ -12,7 +12,10 @@ All you have to do is wait for your victim to scan it and you will be connected 
 # How to use
  1. Check that you have installed the external python modules.
  2. Launch the file [start.bat](start.bat).
- 3. .
+ 3. (*CAUTION! Do not close the Google Chrome window*).
+ 4. Open the gift folder and retrieve the image from it.
+ 5. Send the image to your victim and wait for them to scan the QR code.
+ 6. (*Once this one is scanned, you will be connected to his discord account*).
  
 <br>
 
