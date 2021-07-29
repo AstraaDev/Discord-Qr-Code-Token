@@ -31,6 +31,8 @@ All you have to do is wait for your victim to scan it and you will be connected 
     - [Discord](https://discord.gg/pUZrFnabvd)
     - [WebSite](http://astraadev.club/)
     - [PayPal.me](https://www.paypal.com/paypalme/fmrhrt)
+ 
+<br>
 
 # Donate
 You can donate to my PayPal at https://www.paypal.com/paypalme/fmrhrt <3
