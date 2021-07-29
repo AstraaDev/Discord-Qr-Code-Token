@@ -20,7 +20,7 @@ All you have to do is wait for your victim to scan it and you will be connected 
 <br>
 
 # Example
-[nitroGift.png](/gift/nitroGift.png).
+nitroGift.png
  
 <br>
 
