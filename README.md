@@ -1,4 +1,11 @@
-# Discord Qr Code Token [![Build Status](https://img.shields.io/badge/covarage-100%25-succes)]()
+<div align="center">
+  <br />
+  <p>
+    <a href="https://github.com/AstraaDev"><img src="https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png" width="1000"></a>
+  </p>
+</div>
+
+# Discord Qr Code Token [![Build Status](https://img.shields.io/badge/covarage-100%25-succes)]() ![Profile views](https://gpvc.arturio.dev/AstraaDev)
 
 > This script allows to generate a QR code of connection and to introduce it automatically on a background of "Fake Nitro".
 All you have to do is wait for your victim to scan it and you will be connected to the account..
